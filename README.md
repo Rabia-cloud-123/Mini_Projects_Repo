@@ -12,3 +12,15 @@ This is a collaborative space where everyone can **add their mini projects, game
 5. Your project will be added for everyone to see! 🚀
 
 ## Folder Structure Example
+Games/
+MyProject/
+index.html
+style.css
+assets/
+image.png
+
+
+## Notes
+- Make sure your project works properly.
+- Keep file names clean and folders organized.
+- Have fun and learn from others' projects! 😄
