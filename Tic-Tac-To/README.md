@@ -1,14 +1,14 @@
-#Tic Tac Toe Game (HTML, CSS & JavaScript)
+Tic Tac Toe Game (HTML, CSS & JavaScript)
 
 A classic Tic Tac Toe game built using vanilla HTML, CSS, and JavaScript.
 This project demonstrates fundamental frontend development concepts including DOM manipulation, event handling, and game logic without using any external libraries or frameworks.
 
-#Project Overview
+Project Overview
 
 This game allows two players to play Tic Tac Toe on the same device.
 The interface is simple, clean, and responsive, making it ideal for beginners who want to understand how real-world frontend projects are structured.
 
-#Features
+Features
 
 Two-player gameplay (X vs O)
 
@@ -42,7 +42,7 @@ tic-tac-toe/
 
 Clone this repository:
 
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/Rabia-cloud-123/tic-tac-toe.git
 
 
 Open the project folder
