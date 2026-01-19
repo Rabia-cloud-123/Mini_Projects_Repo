@@ -40,11 +40,6 @@ tic-tac-toe/
 
 #▶️ How to Run the Project
 
-Clone this repository:
-
-git clone https://github.com/Rabia-cloud-123/tic-tac-toe.git
-
-
 Open the project folder
 
 Open index.html in any modern web browser
